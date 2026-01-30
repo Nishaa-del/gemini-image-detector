@@ -1,5 +1,5 @@
 
-Fake Image Detection Using SVM
+#Fake Image Detection Using SVM
 
 This project is a machine learning–based web application that detects whether an uploaded image is **Real** or **AI-generated (Gemini-generated)**.
 It uses a **Support Vector Machine (SVM)** classifier trained on image features and provides a **Streamlit-based web interface** for image upload and prediction.
