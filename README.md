@@ -109,7 +109,11 @@ http://localhost:8501
 * Real Image: Classified as real
 * Gemini-generated Image: Classified as AI-generated
 <img width="1160" height="602" alt="image" src="https://github.com/user-attachments/assets/c5e092b7-054d-4134-9c95-80d37261e1d7" />
+
+
 <img width="1157" height="603" alt="image" src="https://github.com/user-attachments/assets/9e5d2952-4e62-4d8c-8875-266e67862f0d" />
+
+
 <img width="1146" height="605" alt="image" src="https://github.com/user-attachments/assets/da9b243a-3c07-4589-b702-a4b9c97d6172" />
 
 
